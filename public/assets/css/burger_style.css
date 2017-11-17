@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.devour {
+	background-color: #e53935;
+	width: 180px;
+}
+
+.devour-ed {
+	overflow: scroll;
+	height: 400px;
+}
+
+#right {
+	text-align: right;
+}
+
+#submit {
+	height: 50px;
+	width: 100%;
+}
+
+#pay {
+	background-color: #4db6ac;
+}
