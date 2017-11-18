@@ -1,2 +1,2 @@
 # burger
-week 14 homework assignment
+Eat-Da-Burger application
